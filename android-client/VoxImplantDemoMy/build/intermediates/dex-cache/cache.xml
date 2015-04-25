@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Projects\VoxImplantDemoMy\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2dea3dae6e3e9be7836a5e73740fa05fef9fb5c9.jar" />
+    </item>
+    <item
+        jar="D:\Projects\VoxImplantDemoMy\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Projects\VoxImplantDemoMy\app\build\intermediates\pre-dexed\debug\classes-5c983f60e6691ac239c4e7c042e00cd3be641e22.jar" />
+    </item>
+    <item
+        jar="D:\Projects\VoxImplantDemoMy\app\libs\voximplantsdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e3f8e35213a330e2d9b79ac4624071a7a00700e">
+        <dex dex="D:\Projects\VoxImplantDemoMy\app\build\intermediates\pre-dexed\debug\voximplantsdk-cf2c634bd7c7b119a2f4c23a2ce453a17812c806.jar" />
+    </item>
+    <item
+        jar="D:\Projects\VoxImplantDemoMy\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Projects\VoxImplantDemoMy\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4f076590fcdb2f069b5bf33ae67c669b2acca72a.jar" />
+    </item>
+
+</items>

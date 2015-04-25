@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="voximplantsdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/voximplantsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
